@@ -1,0 +1,3 @@
+[submodule "Algorithms/numeths"]
+	path = Algorithms/numeths
+	url = https://github.com/devkhan/numeths.git
